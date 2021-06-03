@@ -48,9 +48,9 @@ Additional notes or description of the content of the item. May contain cataloge
 ### Subject Topic
 A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Songs with piano; (Low voice) with piano; Piano music
 ### Subject Geographic
-Geographic location(s) relevant to the item. Some coverage terms used in the collection include: 1901-1910; 1911-1920 
+Geographic location(s) relevant to the item. Some coverage terms used in the collection include:
 ### Subject Temporal
-Used for chronological subject terms or temporal coverage. Terms used: 
+Used for chronological subject terms or temporal coverage. Terms used: 1901-1910; 1911-1920  
 ### Subject Name
 A name used as a subject.
 ### Classification
