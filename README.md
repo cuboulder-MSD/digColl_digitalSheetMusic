@@ -48,7 +48,7 @@ Additional notes or description of the content of the item. May contain cataloge
 ### Subject Topic
 A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Songs with piano; (Low voice) with piano; Piano music
 ### Subject Geographic
-Geographic location(s) relevant to the item. Some coverage terms used in the collection include:
+Geographic location(s) relevant to the item.
 ### Subject Temporal
 Used for chronological subject terms or temporal coverage. Terms used: 1901-1910; 1911-1920  
 ### Subject Name
@@ -58,7 +58,7 @@ Number assigned to score. Example: MUSICPOP 1908-SM
 ### Identifier
 Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: 7806496x
 ### Physical Location
-The institution or repository that holds the resource or where it is available: University of Colorad Boulder Music Library
+The institution or repository that holds the resource or where it is available: University of Colorado Boulder Music Library
 ### Access Condition
 Information about restrictions imposed on access to a resource.
 
