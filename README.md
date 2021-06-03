@@ -1,91 +1,68 @@
 # Digital Sheet Music Collection
 ## Description
-The University of Colorado at Boulder Music Library has a large sheet music collection with approximately 150,000 items including examples from the late 18th through the 20th centuries. This collection provides access to digital versions of some of the categories of sheet music within our physical collections, a new avenue to this interesting genre. The sheet music digitized and presented here was originally published between 1890 and 1922. The sheet music in this collection is presented as part of the historical record. The topics, illustrations, and language reflect the attitudes and beliefs of earlier times. The University of Colorado does not endorse the views expressed in these collections that may contain materials that are offensive to some readers. 
-## DOI
-https://doi.org/10.25810/fz1g-7m46
+The University of Colorado at Boulder Music Library has a large sheet music collection with approximately 150,000 items including examples from the late 18th through the 20th centuries. This collection provides access to digital versions of some of the categories of sheet music within our physical collections, a new avenue to this interesting genre. The sheet music digitized and presented here was originally published between 1890 and 1922. The sheet music in this collection is presented as part of the historical record. The topics, illustrations, and language reflect the attitudes and beliefs of earlier times. The University of Colorado does not endorse the views expressed in these collections that may contain materials that are offensive to some readers.
+
+Permanent address to digital collection: [https://doi.org/10.25810/fz1g-7m46](https://doi.org/10.25810/fz1g-7m46).<br /> 
+Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
+Name of the collection: Digital Sheet Music Collection
 ### Subcollection
+Name of subcollection: Sister Mary Sheet Music Collection
 ### Title
-### Non Sort
-### Subtitle
-### Uniform Title
-### Alternative Title
-### Other Title
-### First Line of Chorus
+Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### First Line of Text
-### Series Title
+The first line of text for the lyrics of the song.
+### First Line of Chorus
+The first line of text in the chorus of the song.
 ### Composer
+A person who writes music, especially as a professional occupation. Some names in the collection include: Avril, Charles; Butler, Helen May; Green, Hattie E. 
 ### Lyricist
-### Arranger
-### Editor
-### Artist
-### Performer
-### Contributor	
-### Name Authority	
-### Type of Resource	
-### Place Term	
-### Place Term Type	
-### Place Term Authority	
-### Publisher	
-### Date Issued	
-### Date Issued Encoding	
-### Date Created	
-### Date Created Encoding	
-### Date Captured	
-### Date Captured Encoding	
-### Edition	
-### Issuance	
-### Frequency	
-### Language Term	
-### Language Term Code	
-### Language Term Code Authority	
-### Language Term Type	
-### Form	
-### Form Authority	
-### Form Type	
-### Internet Media Type	
-### Extent	
-### Digital Origin	
-### Physical Description Note	
-### Physical Description Note Type	
-### Note	
-### Note Type	
-### Digitization Note	
-### Subject Topic	
-### Subject Authority	
-### Subject Geographic	
-### Subject Geographic Authority	
-### Subject Temporal	
-### Subject Temporal Authority	
-### Subject Title Info	
-### Subject Name	
-### Subject Geographic Code	
-### Subject Geographic Code Authority	
-### Subject Genre	
-### Subject Genre Authority	
-### Classification	
-### Classification Authority	
-### Plate Number	
-### Publisher 
-### Number	
-### Related Item	
-### Related Item Type	
-### Related Item Identifier	
-### Related Item Identifier URI	
-### Listen to Audio	
-### Identifier	
-### Identifier Type	
-### Identifier URI	
-### Physical Location	
-### Physical Location Type	
-### Sublocation	
-### Shelf Identifier	
-### Location URL	
-### Access Condition	
-### Text	
-### Scanning technician	
-### Extent List
+A person who writes the words to a song or musical. Some names include: Scoggins, C. H.; Ramey, J. S
+### Contributor
+Contributor to the work. Some names include: Lind, Jenny, 1820-1887; Armstrong, Will H. 
+### Type of Resource
+A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: notated music
+### Place Term
+Geographic location(s) relevant to the item. Some coverage terms used in the collection include: Chicago, Ill.; New York; Denver, Colo.
+### Publisher
+The name of the entity that published, printed, distributed, released, issued, or produced the resource. Publisher includes: Tolbert R. Ingram Music Co.
+### Date Issued
+The date that the resource was published, released, or issued. Date ranges include: Early 1900s
+### Date Captured
+The date on which the resource was digitized or a subsequent snapshot was taken. Dates include: 2013
+### Edition
+A particular form or version of a published text.
+### Language
+Contains the textual or coded form for the language of the content of the resource. Language(s) seen in this collection include: English
+### Internet Media Type: 
+Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
+
+Media type(s) in this collection: text/pdf
+### Extent
+The size or scale of the work.
+### Digital Origin
+The method by which a resource achieved digital form. Origin for this collection: reformatted digital
+### Note
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
+### Subject Topic
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Songs with piano; (Low voice) with piano; Piano music
+### Subject Geographic
+Geographic location(s) relevant to the item. Some coverage terms used in the collection include: 1901-1910; 1911-1920 
+### Subject Temporal
+Used for chronological subject terms or temporal coverage. Terms used: 
+### Subject Name
+A name used as a subject.
+### Classification
+Number assigned to score. Example: MUSICPOP 1908-SM
+### Identifier
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: 7806496x
+### Physical Location
+The institution or repository that holds the resource or where it is available: University of Colorad Boulder Music Library
+### Access Condition
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: Not available
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
