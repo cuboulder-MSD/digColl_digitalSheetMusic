@@ -8,7 +8,14 @@ Please use the same link when sharing or citing the collection.
 ### Collection Name
 Name of the collection: Digital Sheet Music Collection
 ### Subcollection
-Name of subcollection: Sister Mary Sheet Music Collection
+Name of subcollections: 
+
+Sister Mary Sheet Music Collection
+Colorado Publishers Sheet Music Collection
+Colorado Sheet Music Collection
+Ragtime Sheet Music Collection
+Western Trails Sheet Music Collection
+
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### First Line of Text
@@ -24,7 +31,7 @@ Contributor to the work. Some names include: Lind, Jenny, 1820-1887; Armstrong, 
 ### Type of Resource
 A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: notated music
 ### Place Term
-Geographic location(s) relevant to the item. Some coverage terms used in the collection include: Chicago, Ill.; New York; Denver, Colo.
+Geographic location(s) relevant to the item. Coverage terms are formatted from FAST and include: Chicago, Illinois--Chicago; New York (State); Colorado--Denver
 ### Publisher
 The name of the entity that published, printed, distributed, released, issued, or produced the resource. Publisher includes: Tolbert R. Ingram Music Co.
 ### Date Issued
@@ -38,7 +45,7 @@ Contains the textual or coded form for the language of the content of the resour
 ### Internet Media Type: 
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
 
-Media type(s) in this collection: text/pdf
+Media type(s) in this collection: [text/pdf](https://www.iana.org/assignments/media-types/application/pdf)
 ### Extent
 The size or scale of the work.
 ### Digital Origin
@@ -55,14 +62,18 @@ Used for chronological subject terms or temporal coverage. Terms used: 1901-1910
 A name used as a subject.
 ### Classification
 Number assigned to score. Example: MUSICPOP 1908-SM
+
+Classification also include the Sierra bibliographic number and a link to the catalog record.
 ### Identifier
-Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: 7806496x
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
+
+Example: musc_sheetMary_dreaminTime.pdf
 ### Physical Location
 The institution or repository that holds the resource or where it is available: University of Colorado Boulder Music Library
 ### Access Condition
 Information about restrictions imposed on access to a resource.
 
-Statement in collection: Not available
+Statement in collection: The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information. http://rightsstatements.org/vocab/NoC-US/1.0/
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
