@@ -8,13 +8,7 @@ Please use the same link when sharing or citing the collection.
 ### Collection Name
 Name of the collection: Digital Sheet Music Collection
 ### Subcollection
-Name of subcollections: 
-
-Sister Mary Sheet Music Collection
-Colorado Publishers Sheet Music Collection
-Colorado Sheet Music Collection
-Ragtime Sheet Music Collection
-Western Trails Sheet Music Collection
+Name of subcollections: Sister Mary Sheet Music Collection; Colorado Publishers Sheet Music Collection; Colorado Sheet Music Collection; Ragtime Sheet Music Collection; Western Trails Sheet Music Collection
 
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
